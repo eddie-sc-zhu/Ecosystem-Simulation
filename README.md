@@ -1,14 +1,12 @@
 # Ecosystem-Simulation
 An Interactive Ecosystem Simulator
 
-WORK IN PROGRESS
-
 # What is it?
-This is a simple ecosystem simulator game. Designed with the intent of visualization, the game features many charachteristics that wouldn't be found in conventional simulators.
+This is a real-time 3D ecosystem simulator game. Designed with the intent of visualization, the game features many charachteristics that wouldn't be found in conventional simulators.
 
 ![Screenshot](Screenshot4.png)
 
-The simulation isn't the most efficient, and gets incredibly laggy. However, smaller sample sizes still function properly. Feel free to use this simulator as a visualizer to develop unique strategies to help these creatures grow and view adaption in real-time.
+The simulation isn't the most efficient; there is room for improvement. However, smaller sample sizes still function properly. Feel free to use this simulator as a visualizer to develop unique strategies to help these creatures grow and view adaption in real-time.
 
 # How To Install
 
